@@ -3,7 +3,9 @@
 	<title>New Website</title>
 </head>
 <body>
-<?php echo "string"; ?>
+<?php 
+	echo "string";
+?>
 
 </body>
 </html>
